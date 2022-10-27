@@ -6,5 +6,11 @@ def GreetWhite():
     print('hello white')
 
 
+def GreetBlack():
+    print('hello black')
+
+
 if __name__ == '__main__':
     Greet()
+    GreetWhite()
+    GreetBlack()
